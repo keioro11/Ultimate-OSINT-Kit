@@ -2,7 +2,7 @@
 Extreme powerful browser kit for gaining information from open sources 🔎
 
 ## Browser
-* For more privacy and control, I recommend using [LibreWolf](https://librewolf.net/)
+* For more privacy and control, I recommend using [LibreWolf](https://librewolf.net)
 * It's based on Firefox but with less telemetry, tracking mechanisms and has built in privacy search engines like DuckDuckGo.
 * Follow their website for installation, documentation and source code.
 * You can use any other minimal, open-source browser on the Gecko or WebKit engines.
@@ -12,7 +12,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * Finding, sorting and comparing 3000 tools manually took me a week, 3 hours everyday.
 * I will be thankful if u give a star 🙏))
   
-### Instructions to import bookmarks:
+### How to import bookmarks:
 1. Download **bookmarks.json** file from repo.
 2. Go to the LibreWolf Settings.
 3. In the General section, find "Import browser data".
@@ -31,3 +31,18 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * Simple Translate - Quickly translate in a compact window.
 
 ## Privacy Settings
+* I corrected many settings to be sure that telemetry and other mozilla tracking options are disabled or less noticable.
+* In fact there are some extensions and settings such as "privacy.firstparty.isolate", LocalCDN, Decentraleyes that can increase privacy but broke some sites, so i didnt enabled or used them.
+* For information about all of them [about:config](https://kb.mozillazine.org/About:config_entries)
+
+### How to import settings:
+1. Download **user.js** file from the repo.
+2. In blank page type "about:profiles" and click enter.
+3. There will be profile with "default" or "default-default" suffix, find "Root Directory" text below it.
+4. Click "Open Directory" button next to it.
+5. Now you're in the default profile's folder.
+6. Copy there the **user.js** file.
+7. After restart the settings will be imported.
+8. Compare them with [about:config](https://kb.mozillazine.org/About:config_entries) and enable/disable on your choose.
+
+##That's all, don't forget about ⭐ if you liked)) Thanks! 
