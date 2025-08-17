@@ -11,6 +11,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * Bookmarks will be the 95% of our browser functionality.
 * Finding, sorting and comparing 3000 tools manually took me a week, 3 hours everyday.
 * I will add more tools with time))
+
 ![How they look](https://i.ibb.co/99pZxQnF/Screenshot-from-2025-08-18-02-34-24.png)
   
 ### How to import bookmarks:
