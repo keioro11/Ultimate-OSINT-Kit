@@ -1,0 +1,21 @@
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin | Ublock Origin	
+https://addons.mozilla.org/en-US/firefox/addon/uaswitcher | User-Agent Switcher
+https://addons.mozilla.org/en-US/firefox/addon/simple-translate | Simple Translate
+https://addons.mozilla.org/en-US/firefox/addon/sponsorblock | Sponsor Block
+https://addons.mozilla.org/en-US/firefox/addon/flagfox | Flagfox
+https://addons.mozilla.org/en-US/firefox/addon/mitaka | Mitaka
+https://addons.mozilla.org/en-US/firefox/addon/single-file | Single File
+https://addons.mozilla.org/en-US/firefox/addon/search_by_image | Search By Image
+https://addons.mozilla.org/en-US/firefox/addon/builtwith | Builtwith
+https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager | Cookie Quick Manager
+https://addons.mozilla.org/en-US/firefox/addon/easy-dns-lookup | Easy Dns Lookup
+https://addons.mozilla.org/en-US/firefox/addon/easyscreenshot | Easy Screenshot
+https://addons.mozilla.org/en-US/firefox/addon/exif-viewer | Exif Viewer
+https://addons.mozilla.org/en-US/firefox/addon/google-analytics-blocker | Google Analytics Blocker
+https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1 | Don't Track Me Google
+https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info | Ip Address And Domain Information
+https://addons.mozilla.org/en-US/firefox/addon/osint-google-dork-scanner | Osint Google Dork Scanner
+
+
+
+
