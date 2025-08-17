@@ -24,7 +24,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 9. Now u can use bookmarks 👍))
 
 ## Extensions
-* In **extensions.txt** I collected links for most useful quick tools for online investigator.
+* In **extensions.txt** I collected links for most useful mozilla extensions for online investigator.
 * My favorite and key ones are (pin them for easier use):
 * uBlock Origin - Effective blocker for ads, trackers, telemetry and unwanted content))
 * User-Agent Switcher - Change user-agent for anonymity, for example - if your device is restricted on website.
