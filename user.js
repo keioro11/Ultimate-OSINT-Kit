@@ -193,7 +193,6 @@ user_pref("toolkit.telemetry.cachedProfileGroupID", "e280222a-a2f9-47eb-8e3e-f4c
 user_pref("toolkit.telemetry.reportingpolicy.firstRun", false);
 user_pref("toolkit.winRegisterApplicationRestart", false);
 user_pref("webchannel.allowObject.urlWhitelist", "");lersVersion", 1);
-user_pref("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0");
 user_pref("geo.enabled", false);
 user_pref("idle.lastDailyNotification", 1745257143);
 user_pref("javascript.options.wasm", false);
@@ -243,7 +242,6 @@ user_pref("privacy.bounceTrackingProtection.hasMigratedUserActivationData", true
 user_pref("privacy.bounceTrackingProtection.mode", 1);
 user_pref("privacy.clearOnShutdown_v2.browsingHistoryAndDownloads", false);
 user_pref("privacy.donottrackheader.enabled", true);
-user_pref("privacy.firstparty.isolate", true);
 user_pref("privacy.globalprivacycontrol.was_ever_enabled", true);
 user_pref("privacy.history.custom", true);
 user_pref("privacy.purge_trackers.date_in_cookie_database", "0");
