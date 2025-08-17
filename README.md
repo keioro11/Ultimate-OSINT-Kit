@@ -13,7 +13,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * I will add more tools with time))
   
 ### How to import bookmarks:
-1. Download **bookmarks.json** file from repo.
+1. Get **bookmarks.json** file from repo.
 2. Go to the LibreWolf Settings.
 3. In the General section, find "Import browser data".
 4. Click "Import Data" and select "Bookmarks from HTML file".
@@ -36,7 +36,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * For information about all of them [about:config](https://kb.mozillazine.org/About:config_entries)
 
 ### How to import settings:
-1. Download **user.js** file from the repo.
+1. Get **user.js** file from the repo.
 2. In blank page type "about:profiles" and click enter.
 3. There will be profile with "default" or "default-default" suffix, find "Root Directory" text below it.
 4. Click "Open Directory" button next to it.
