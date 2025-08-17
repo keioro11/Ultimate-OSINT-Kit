@@ -11,6 +11,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * Bookmarks will be the 95% of our browser functionality.
 * Finding, sorting and comparing 3000 tools manually took me a week, 3 hours everyday.
 * I will add more tools with time))
+![How they look](https://i.ibb.co/99pZxQnF/Screenshot-from-2025-08-18-02-34-24.png)
   
 ### How to import bookmarks:
 1. Get **bookmarks.json** file from repo.
@@ -29,6 +30,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * uBlock Origin - Effective blocker for ads, trackers, telemetry and unwanted content))
 * User-Agent Switcher - Change user-agent for anonymity, for example - if your device is restricted on website.
 * Simple Translate - Quickly translate in a compact window.
+![Extensions](path/to/your/image.jpg)
 
 ## Privacy Settings
 * I corrected many settings to be sure that telemetry and other mozilla tracking options are disabled or less noticable.
