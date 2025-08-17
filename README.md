@@ -11,7 +11,8 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * Bookmarks will be the 95% of our browser functionality.
 * Finding, sorting and comparing 3000 tools manually took me a week, 3 hours everyday.
 * I will be thankful if u give a star 🙏))
-* **Instructions to import bookmarks:**
+  
+### Instructions to import bookmarks:
 1. Download **bookmarks.json** file from repo.
 2. Go to the LibreWolf Settings.
 3. In the General section, find "Import browser data".
