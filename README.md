@@ -42,7 +42,7 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 4. Click "Open Directory" button next to it.
 5. Now you're in the default profile's folder.
 6. Copy there the **user.js** file.
-7. After restart the settings will be imported.
+7. After restarting browser the settings will be imported.
 8. Compare them with [about:config](https://kb.mozillazine.org/About:config_entries) and enable/disable on your choose.
 
 ## **That's all, don't forget about ⭐ if you liked)) Thanks!**
