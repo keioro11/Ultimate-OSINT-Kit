@@ -4,7 +4,7 @@ user_pref("privacy.donottrackheader.enabled", true);
 user_pref("privacy.query_stripping.enabled", true);
 
 // HISTORY & URL BAR
-user_pref("places.history.enabled", false);
+user_pref("places.history.enabled", true);
 user_pref("browser.urlbar.suggest.history", false);
 user_pref("browser.urlbar.suggest.engines", false);
 user_pref("browser.urlbar.suggest.bookmark", false);
@@ -18,7 +18,6 @@ user_pref("network.predictor.enabled", false);
 user_pref("network.prefetch-next", false);
 user_pref("network.dns.disableIPv6", true);
 user_pref("network.trr.mode", 2);
-user_pref("network.trr.uri", "https://doh.libredns.gr/noads");
 
 // FINGERPRINTING & API CONTROL
 user_pref("dom.battery.enabled", false);
