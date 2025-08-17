@@ -34,8 +34,6 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 * I corrected many settings to be sure that telemetry and other mozilla tracking options are disabled or less noticable.
 * In fact there are some extensions and settings such as "privacy.firstparty.isolate", LocalCDN, Decentraleyes that can increase privacy but broke some sites, so i didnt enabled or used them.
 * For information about all of them [about:config](https://kb.mozillazine.org/About:config_entries)
-* Browser will remove all the history, autofill data and cookies after closing, change in **Settings > Privacy and Security**.
-* By default the connection will be improved with LibreDNS (Adblocking), so it will be slower, change in **Settings > Privacy and Security**.
 
 ### How to import privacy settings:
 1. Get **user.js** file from the repo.
