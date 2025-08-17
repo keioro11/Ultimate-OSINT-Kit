@@ -1,5 +1,5 @@
 // PRIVACY
-user_pref("privacy.firstparty.isolate", true);
+user_pref("privacy.firstparty.isolate", false);
 user_pref("privacy.donottrackheader.enabled", true);
 user_pref("privacy.query_stripping.enabled", true);
 
@@ -13,11 +13,11 @@ user_pref("browser.urlbar.suggest.recentsearches", false);
 user_pref("browser.urlbar.suggest.topsites", false);
 
 // NETWORK & CONNECTION
-user_pref("network.http.sendRefererHeader", 0);
+user_pref("network.http.sendRefererHeader", 2);
 user_pref("network.predictor.enabled", false);
 user_pref("network.prefetch-next", false);
 user_pref("network.dns.disableIPv6", true);
-user_pref("network.trr.mode", 2);
+user_pref("network.trr.mode", 0);
 
 // FINGERPRINTING & API CONTROL
 user_pref("dom.battery.enabled", false);
