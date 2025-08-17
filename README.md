@@ -1,4 +1,4 @@
-# Ultimate-OSINT-Pack
+# Ultimate-OSINT-Kit
 Extreme powerful browser kit for gaining information from open sources 🔎
 
 
