@@ -9,6 +9,9 @@ Extreme powerful browser kit for gaining information from open sources 🔎
 
 ## Bookmarks
 * Bookmarks will be the 95% of our browser functionality.
+* There are 12 categories for each type of instruments.
+* Many sub-categories.
+* Tons of interesting OSINT resources in "Resources" folder. 
 * Finding, sorting and comparing 3000 tools manually took me a week, 3 hours everyday.
 * I will add more tools with time))
 
