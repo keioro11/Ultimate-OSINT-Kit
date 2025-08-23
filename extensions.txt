@@ -15,8 +15,12 @@ Simple Translate              https://addons.mozilla.org/en-US/firefox/addon/sim
 User-Agent Switcher           https://addons.mozilla.org/en-US/firefox/addon/uaswitcher                      
 uBlock Origin                 https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
 NAMINT quicksearch            https://addons.mozilla.org/en-US/firefox/addon/namint-quicksearch
-SignalHire                    https://addons.mozilla.org/en-US/firefox/addon/signalhire-best-contact-finder
 Telegram Downloader           https://addons.mozilla.org/en-US/firefox/addon/telegram-downloader
 xlFr                          https://addons.mozilla.org/en-US/firefox/addon/xifr
+Web Archives                  https://addons.mozilla.org/en-US/firefox/addon/view-page-archive
+Link Gopher                   https://addons.mozilla.org/en-US/firefox/addon/link-gopher
+Video DownloadHelper          https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper
+Image Downloader              https://addons.mozilla.org/en-US/firefox/addon/image-downloader-addon  
+
 
 # https://github.com/keioro11
