@@ -14,7 +14,9 @@ Single File                   https://addons.mozilla.org/en-US/firefox/addon/sin
 Simple Translate              https://addons.mozilla.org/en-US/firefox/addon/simple-translate                                   
 User-Agent Switcher           https://addons.mozilla.org/en-US/firefox/addon/uaswitcher                      
 uBlock Origin                 https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
-
-
+NAMINT quicksearch            https://addons.mozilla.org/en-US/firefox/addon/namint-quicksearch
+SignalHire                    https://addons.mozilla.org/en-US/firefox/addon/signalhire-best-contact-finder
+Telegram Downloader           https://addons.mozilla.org/en-US/firefox/addon/telegram-downloader
+xlFr                          https://addons.mozilla.org/en-US/firefox/addon/xifr
 
 # https://github.com/keioro11
